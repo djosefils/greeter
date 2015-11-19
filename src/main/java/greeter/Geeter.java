@@ -4,6 +4,6 @@ public class Geeter {
 	
 	
 public String sayHello(String name){
-	return "Hello "+name;
+	return "Hello MR"+name;
 }
 }
